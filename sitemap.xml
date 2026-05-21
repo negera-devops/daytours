@@ -8,31 +8,51 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Tour detail pages -->
-  <url>
-    <loc>https://daytours.lk/tours/sigiriya-day-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://daytours.lk/tours/ella-day-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://daytours.lk/tours/mirissa-whale-watching-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://daytours.lk/tours/colombo-city-day-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://daytours.lk/tours/anuradhapura-day-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <!-- Cultural & Heritage Tours -->
+  <url><loc>https://daytours.lk/tours/sigiriya-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/kandy-temple-of-tooth-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/dambulla-cave-temple-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/polonnaruwa-ancient-city-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/anuradhapura-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/galle-fort-walking-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/colombo-city-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Nature & Wildlife Tours -->
+  <url><loc>https://daytours.lk/tours/yala-national-park-safari/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/udawalawe-elephant-safari/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/wilpattu-safari-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/minneriya-elephant-gathering-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/sinharaja-rainforest-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Beach & Coastal Tours -->
+  <url><loc>https://daytours.lk/tours/mirissa-whale-watching-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/bentota-beach-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/unawatuna-beach-escape/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/hikkaduwa-beach-snorkeling-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Adventure Tours -->
+  <url><loc>https://daytours.lk/tours/ella-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/kitulgala-white-water-rafting/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/adams-peak-hiking-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Tea & Hill Country Tours -->
+  <url><loc>https://daytours.lk/tours/nuwara-eliya-tea-plantation-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/liptons-seat-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/tea-factory-experience-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Water & River Tours -->
+  <url><loc>https://daytours.lk/tours/madu-river-boat-safari/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/bentota-river-safari/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/lagoon-canoeing-negombo/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Turtle & Conservation Tours -->
+  <url><loc>https://daytours.lk/tours/ahungalla-sea-turtle-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/turtle-hatchery-kosgoda/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/baby-turtle-release-kosgoda/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Luxury & Romantic Tours -->
+  <url><loc>https://daytours.lk/tours/luxury-south-coast-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/private-honeymoon-day-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://daytours.lk/tours/luxury-yacht-beach-tour/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
 </urlset>
