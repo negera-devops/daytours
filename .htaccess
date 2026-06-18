@@ -1,0 +1,21 @@
+# ── Tour URL Redirects ──────────────────────────────────────────
+Redirect 301 /tours/baby-turtle-release-kosgoda/ /tours/baby-turtle-release-ahungalla/
+
+# ── Force HTTPS ────────────────────────────────────────────────
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# ── Redirect www → non-www ──────────────────────────────────────
+RewriteCond %{HTTP_HOST} ^www\.daytours\.lk [NC]
+RewriteRule ^(.*)$ https://daytours.lk/$1 [R=301,L]
+
+# ── Handle Next.js static export (trailing slash URLs) ─────────
+Options -MultiViews
+DirectoryIndex index.html
+
+# ── Proper MIME types ───────────────────────────────────────────
+AddType application/javascript .js
+AddType text/css .css
+AddType image/webp .webp
+AddType image/svg+xml .svg
