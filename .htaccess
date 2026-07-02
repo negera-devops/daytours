@@ -1,5 +1,6 @@
 # ── Tour URL Redirects ──────────────────────────────────────────
 Redirect 301 /tours/baby-turtle-release-kosgoda/ /tours/baby-turtle-release-ahungalla/
+Redirect 301 /tours/yala-safari-bus-tour/ /tours/yala-safari-bus-tour-sri-lanka/
 
 # ── Force HTTPS ────────────────────────────────────────────────
 RewriteEngine On
